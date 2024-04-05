@@ -1,0 +1,21 @@
+body{
+    background-color: khaki;
+}
+p{
+    font-size: large;
+}
+.mishr{
+    
+ position: absolute;  
+ top: 8px;
+ left: 16px;
+ font-size: 50px;
+ color: darkred;
+}
+.contanier{
+    position: relative;
+}
+img{
+    width: 50%;
+    height: 20%;
+}
