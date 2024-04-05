@@ -1,0 +1,14 @@
+.om{
+    padding: 0 4px;
+    display: flex;
+    flex-wrap: wrap;
+    flex: 50%;
+    margin-top: 8px;
+    vertical-align: middle;
+}
+body{
+    background-color: hotpink;
+}
+.lion{
+    font-size: 30px;
+}
